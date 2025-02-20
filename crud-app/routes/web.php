@@ -1,8 +1,7 @@
 <?php
 
-use App\Http\Controllers\ItemController;
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\ItemController;
 
 /*
 |--------------------------------------------------------------------------
